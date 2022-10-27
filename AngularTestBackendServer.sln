@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularTestBackendServer", "AngularTestBackendServer\AngularTestBackendServer.csproj", "{F4D2AFB6-0A1D-41A3-83B3-1DA92F53B24A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularTestBackendServer.Core", "AngularTestBackendServer.Core\AngularTestBackendServer.Core.csproj", "{5241DF46-0DA3-41BE-87A2-8641BAB0EA4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularTestBackendServer.Data", "AngularTestBackendServer.Data\AngularTestBackendServer.Data.csproj", "{D417B7A9-FE69-4126-9782-85C00884BC9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6AFB4791-8D96-4FCC-BE1C-37CBD252704C}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D2AFB6-0A1D-41A3-83B3-1DA92F53B24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D2AFB6-0A1D-41A3-83B3-1DA92F53B24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D2AFB6-0A1D-41A3-83B3-1DA92F53B24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D2AFB6-0A1D-41A3-83B3-1DA92F53B24A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5241DF46-0DA3-41BE-87A2-8641BAB0EA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5241DF46-0DA3-41BE-87A2-8641BAB0EA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5241DF46-0DA3-41BE-87A2-8641BAB0EA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5241DF46-0DA3-41BE-87A2-8641BAB0EA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D417B7A9-FE69-4126-9782-85C00884BC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D417B7A9-FE69-4126-9782-85C00884BC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D417B7A9-FE69-4126-9782-85C00884BC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D417B7A9-FE69-4126-9782-85C00884BC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
